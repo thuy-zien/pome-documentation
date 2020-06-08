@@ -1,0 +1,10 @@
+/* Cover
+============================================================================= */
+:root {
+        --cover-color                                      : #FFFFFF;
+        /* Background */
+        --cover-background-blend-mode                      : ;
+        --cover-background-color                           : ;
+        --cover-background-image                           :"/image/cover.jpg";
+}
+

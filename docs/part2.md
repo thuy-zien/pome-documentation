@@ -1,0 +1,1 @@
+Fruits and vegetables contain many vitamins and minerals that are good for your health. These include vitamins A (beta-carotene), C and E, magnesium, zinc, phosphorous and folic acid. Folic acid may reduce blood levels of homocysteine, a substance that may be a risk factor for coronary heart disease.

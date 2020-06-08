@@ -1,0 +1,1 @@
+You will get the most health benefits and protection against disease if you eat a wide variety of fruits and vegetables. The National Health and Medical Research Council (NHMRC) Australian dietary guidelines recommend that adults eat at least five kinds of vegetable and two kinds of fruit every day.
